@@ -1,0 +1,7 @@
+{
+    "python.languageServer":"Pylance",
+    "files.associations":{
+        "*.ejs": "html"
+    },
+    "emmet.includeLanguages": {"django-html":"html"}
+}
